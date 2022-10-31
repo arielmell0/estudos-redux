@@ -1,0 +1,11 @@
+{
+  "name": "redux-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "arielom",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.1.0"
+  }
+}
